@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-我正在寻求一个博士生职位
+我正在寻求一个博士生职位或者研究实习的职位（我希望在开始phd学习和生活之前，能和我未来的导师公事一段时间，以确保互相match）
+我在天津大学数学学院获得了数学学士学位。之后，我在一家游戏公司从事全职游戏开发game developer,在一线游戏开发的工作经验很好的锻炼了我的coding power，尤其是c++水平有了很大提高.
+我的研究兴趣在于：
+1.ai+,想从事这方面研究的动力来源于自己在利用chatgpt帮助自己做code review时
+I obtained Bachelor of Mathematics degree from Tianjin University, I have worked 
  by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
