@@ -7,10 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-我正在寻求一个博士生职位或者研究实习的职位（我希望在开始phd学习和生活之前，能和我未来的导师公事一段时间，以确保互相match）
-我在天津大学数学学院获得了数学学士学位。之后，我在一家游戏公司从事全职游戏开发game developer,在一线游戏开发的工作经验很好的锻炼了我的coding power，尤其是c++水平有了很大提高.
-我的研究兴趣在于：
-1.ai+,想从事这方面研究的动力来源于自己在利用chatgpt帮助自己做code review时
+我正在寻求一个博士生职位或者研究实习的职位（我希望在开始phd学习和生活之前，能和我未来的导师公事一段时间，以
+
+确保互相match）
+
+我在天津大学数学学院获得了数学学士学位。之后，我在一家游戏公司从事全职游戏开发game developer,在一线游戏开
+
+发的工作经验很好的锻炼了我的coding power，尤其是c++水平有了很大提高.
+
+我的研究兴趣在于： 
+
+1.ai+(& +ai),想从事这方面研究的动力来源于自己在利用chatgpt帮助自己做code review时，gpt给出了关于用函数对象
+
+(function objects)实现函数指针的最佳实现。很明显，gpt实现某个函数的能力已经高于我。这就让我有了以下几个
+
+疑问：
+
+a.gpt是怎么知道如何实现这个方法的，b.它是如何确定最佳的
+
+
 I obtained Bachelor of Mathematics degree from Tianjin University, I have worked 
  by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
