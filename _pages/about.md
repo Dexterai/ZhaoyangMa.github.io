@@ -29,7 +29,9 @@ a.gpt是怎么知道如何实现这个方法的，b.它是如何确定最佳的
 
 they focus on utilizing pre-training techniques for the tasks in the code review scenario. They collect a large-scale dataset of real-world code changes and code reviews from open-source projects. To better understand code diffs and reviews, we propose CodeReviewer, a pre-trained model that utilizes four pre-training tasks tailored specifically for the code review scenario.
 
-他们从开源项目中收集了一个关于code change 的数据集，在t5模型的基础上进行微调，得倒了code review场景下的专用模型
+他们从开源项目中收集了一个关于code change 的数据集，在t5模型的基础上进行微调，得倒了code review场景下的专用模型, 这样的模型就可以
+
+进行code进行review，并能指出原有代码的需要改进的原因。
 
 I obtained Bachelor of Mathematics degree from Tianjin University, I have worked 
  by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
