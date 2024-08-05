@@ -31,7 +31,25 @@ they focus on utilizing pre-training techniques for the tasks in the code review
 
 他们从开源项目中收集了一个关于code change 的数据集，在t5模型的基础上进行微调，得倒了code review场景下的专用模型, 这样的模型就可以
 
-进行code进行review，并能指出原有代码的需要改进的原因。
+进行code进行review，并能指出原有代码的需要改进的原因。抛开各种实现的的细节，可以从两个方面考虑我的疑惑或者兴趣点。
+
+一、gpt带来了生产要素的改变，曾经人类解决问题的思路大多基于规则，比如利用牛顿定律计算苹果落到地上最终的速度，但发现牛顿定律的一般过程是通过实验记录自由落
+
+体过程中的高度，时间等变量的变化，发现物体的高度和下落时间的平方成正比，然后把这样的规律称为牛顿定律。在一段时间内，牛顿定律在低速宏观的情况下是适用的，也
+
+可以比较准确的指导一般的生产实践（比如汽车运动的速度变化），还好有数学，可以用来描述这样的物理规则。但回过头来看这个code review gpt，它似乎也是从海量的
+
+commit中总结出了关于代码最佳实现的”规则“，只是以现有的数学语言，没办法很好的描述这样的规则，就像是一些没法写出表达式的函数。（这并不是一件容易的事情，毕
+
+竟距离人类能准确定义极限，和人类存在的浩瀚长和相比，也是刚刚不久的事情）所以这里面蕴含着我博士申请的两个方向。找到描述GPT”内蕴“规则的语言，基于规则有很大
+
+的好处，我们可以debug整个过程。从此，可以引申出关于参数量和模型能力的关系，在a100上微调模型还是有些笨拙，当我们想在自己的手机甚至个人手表想运行起来大模
+
+型有没有可能呢，这必然要对大模型进行压缩，但压缩模型时，如何压缩尽量无损呢，或者说我们得说清楚，什么是“损”呢（说清楚一件事情，大多数时候并不容易），这就又
+
+回到了上面的问题，我们需要把握大模型这种东西的工具，就像当年考虑研究函数的连续性，极值等各种性质一样。
+
+二、chat gpt的“胡说八道”可能
 
 I obtained Bachelor of Mathematics degree from Tianjin University, I have worked 
  by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
