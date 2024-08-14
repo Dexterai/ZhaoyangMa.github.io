@@ -19,15 +19,15 @@ redirect_from:
 2.the fundametal of ai
 3.高性能计算，尤其是并行计算
 
-I am looking for a Ph.D. or research intern position (working as a research intern is for the Ph.D. program, I can accept volunteer onsite or remote research intern).
+I am looking for a Ph.D. or research intern position (working as a research intern is for the PhD program, and I'm open to a volunteer onsite intern or remote intern).
 
-I obtained my Bachelor's degree in Mathematics at Tianjin University(qs 269). Subsequently, I worked as a full-time game developer at [PIXEL SOFT](https://www.pixelgame.net/pixelsoft/english/) (a game company), where the hands-on experience in game development greatly honed my coding skills, especially in C++.
+I obtained my Bachelor's degree in Mathematics at Tianjin University(qs 269). Subsequently, I worked as a full-time game developer at [PIXEL SOFT](https://www.pixelgame.net/pixelsoft/english/) (a game company), where greatly enhanced my coding power, especially in C++(It's always not very easy for someone who major in math) and Python.
 
-My research interests include:
-
-AI+, such as AI combined with Partial Differential Equations (PDEs), AI-assisted data anonymization.
-The fundamentals of AI.
-High-performance computing, with a particular focus on parallel computing.
+research interests :
+======
+1.AI+, such as AI combined with Partial Differential Equations (PDEs), AI-assisted data anonymization.
+2.The fundamentals of AI.
+3.High-performance computing, with a particular focus on parallel computing.
 
 
 I obtained Bachelor of Mathematics degree from Tianjin University, I have worked 
